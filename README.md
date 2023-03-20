@@ -27,7 +27,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatrunoLuca&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PatrunoLuca&theme=monokai&date_format=j%20M%5B%20Y%5D)(https://git.io/streak-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrunoLuca&show_icons=true&theme=monokai&date_format=j%20M%5B%20Y%5D)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrunoLuca&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
