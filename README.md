@@ -15,13 +15,22 @@
 
 ### 👩‍💻  About Me :
 - :wave: Hi, I’m @PatrunoLuca. I'm a student of G.B Vico in Naples!
-- :seedling: I’m currently learning HTML and CSS
+- :seedling: I’m currently trying to master CSS
 
 ---
 
 ### :hammer_and_wrench:  Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
+</div>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60"/>&nbsp;
 </div>
 
 ---
