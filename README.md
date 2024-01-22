@@ -15,7 +15,7 @@
 
 ### 👩‍💻  About Me :
 - :wave: Hi, I’m @PatrunoLuca. I'm a student of G.B Vico in Naples!
-- :seedling: I’m currently trying to master CSS
+- :seedling: I’m currently trying to make a school project with Arduino and nodeJS
 
 ---
 
@@ -25,6 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 </div>
 
 ---
@@ -39,6 +40,6 @@
 ### :trophy: My Badges :
 <div>
   <a href="https://www.credly.com/badges/0c3fb89d-cc86-4fcc-8930-537273595939/public_url">
-    <img src="https://images.credly.com/size/680x680/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png" title="[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer" alt="Python Institute" width="100" height="100"/>&nbsp;
+    <img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" title="[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer" alt="Python Institute" width="100" height="100"/>&nbsp;
   </a>
 </div>
